@@ -1,0 +1,6 @@
+print("atik")
+print("Komol")
+print("alif")
+print("siam")
+print("asteci")
+print("Nasif")
